@@ -1056,9 +1056,9 @@ textarea {
     box-shadow: 0 0 0 1px #0E46A3; }
 
 .fill-parent {
-      flex: 1 1 50%;               /* This allows the children to grow and fill the space equally */
-      display: flex;         /* Optional: Makes it easier to align inner content vertically */
-      flex-direction: column; /* Optional: Stacks inner content vertically */
+      flex: 1 1 50%;               
+      display: flex;       
+      flex-direction: column; 
       padding: 0 1rem 0 1rem;
   }
 
