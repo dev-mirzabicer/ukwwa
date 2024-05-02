@@ -2201,7 +2201,7 @@ button,
   #footer .copyright a {
     color: inherit; }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1040px) {
   .not-on-mobile {
     display: none;
   }
