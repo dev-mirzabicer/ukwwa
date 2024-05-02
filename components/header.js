@@ -14,7 +14,7 @@ class Header extends HTMLElement {
 						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li> \
 					</ul> \
 			</span> \
-			<span> \
+			<span class="not-on-mobile"> \
 				<img src="images/header-images.jpg" alt="ukwwa banner" /> \
 			</span> \
 		</header> \

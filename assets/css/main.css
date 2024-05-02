@@ -2201,6 +2201,12 @@ button,
   #footer .copyright a {
     color: inherit; }
 
+@media screen and (max-width: 600px) {
+  .not-on-mobile {
+    display: none;
+  }
+}
+
 /* Menu */
 #menu ul {
   -moz-user-select: none;
